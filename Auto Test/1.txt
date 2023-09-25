@@ -1,0 +1,5 @@
+- Is_Tutor = 0 => Tk Babi bt
+- Is_Tutor = 1; Day_Vip > 0 => Tk Tutor Vip
+- Is_Tutor = 1; Day_Vip = 0 => Tk Tutor non Vip
+- Is_Tutor = 2; Day_Vip > 0 => Tk Tutor Vip
+- Is_Tutor = 2; Day_Vip = 0 => Tk Babi bt
