@@ -2,7 +2,7 @@ package lab_03;
 
 import java.util.Arrays;
 
-public class lab03_3 {
+public class Lab03_3 {
 
    /** Nhap mot day cac chu so bat ky
     * Gan chu so dau tien index = 0

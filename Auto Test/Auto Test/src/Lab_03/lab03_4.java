@@ -2,7 +2,7 @@ package lab_03;
 
 import java.util.Arrays;
 
-public class lab03_4 {
+public class Lab03_4 {
     public static void main(String[] args) {
         int [] array1 = {1, 12, 16, 28, 34};
         int array1len = array1.length;
